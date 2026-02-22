@@ -1,0 +1,29 @@
+# Cryptographic material
+key.pem
+cert.pem
+*.jks
+*.keystore
+android_key/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+dist/
+build/
+
+# Logs
+*.log
+
+# Android / IDE
+.idea/
+.gradle/
+local.properties
+android/build/
+android/app/build/
+android/.gradle/
+
+# OS
+.DS_Store
+Thumbs.db

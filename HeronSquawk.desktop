@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Heron Squawk
+Comment=LoRa Mesh Network Launcher
+Exec=/usr/local/bin/HeronSquawk
+Icon=network-wireless
+Terminal=false
+Categories=Network;Communication;
+StartupNotify=true

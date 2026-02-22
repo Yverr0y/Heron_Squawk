@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bird body - stylized heron shape -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,28 C58,28 62,30 64,34 L68,42 C70,46 70,50 68,54 L64,62 L66,70 C67,74 66,78 63,80 L54,84 L45,80 C42,78 41,74 42,70 L44,62 L40,54 C38,50 38,46 40,42 L44,34 C46,30 50,28 54,28 Z" />
+
+    <!-- Bird head/beak -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,24 L58,28 L54,32 L50,28 Z" />
+
+    <!-- Signal waves right side -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#3B82F6"
+        android:pathData="M70,36 Q76,42 76,54 Q76,66 70,72"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.7" />
+
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#3B82F6"
+        android:pathData="M76,30 Q86,42 86,54 Q86,66 76,78"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.4" />
+
+    <!-- Signal waves left side -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#3B82F6"
+        android:pathData="M38,36 Q32,42 32,54 Q32,66 38,72"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.7" />
+
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#3B82F6"
+        android:pathData="M32,30 Q22,42 22,54 Q22,66 32,78"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.4" />
+
+</vector>

@@ -1,0 +1,7 @@
+// Root build.gradle.kts for Heron Squawk Android App
+plugins {
+    id("com.android.application") version "8.13.2" apply false
+    id("org.jetbrains.kotlin.android") version "1.9.21" apply false
+    id("org.jetbrains.kotlin.plugin.serialization") version "1.9.21" apply false
+    id("org.jetbrains.kotlin.kapt") version "1.9.21" apply false
+}
