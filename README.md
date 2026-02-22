@@ -201,4 +201,4 @@ This is a working project, not a polished product. The core functionality -- enc
 
 ## License
 
-[Add your license here]
+This project is licensed under the [MIT License](LICENSE).
